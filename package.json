@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/TantikornDev/For-Test-Academy/issues"
   },
-  "homepage": "https://github.com/TantikornDev/For-Test-Academy#readme"
+  "homepage": "https://github.com/TantikornDev/For-Test-Academy#readme",
+  "dependencies": {
+    "yarn": "^1.22.19"
+  }
 }

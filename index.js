@@ -7,6 +7,7 @@ const requestHandler = (request, response) => {
     console.log('check <<<<<', request.url);
     response.end('Hello Node.js Server!');
 };
+
 // section2:
 const server = http.createServer(requestHandler);
 server.listen(port, (err) => {
